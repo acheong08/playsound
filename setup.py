@@ -8,7 +8,7 @@ here = abspath(dirname(getsource(lambda:0)))
 with open(join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
-setup(name             = 'playsound',
+setup(name             = 'playsound2',
       version          = '1.3.0',
       description      = long_description.splitlines()[2][1:-1],
       long_description = long_description,
