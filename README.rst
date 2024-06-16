@@ -2,6 +2,13 @@ playsound
 =========
 *Pure Python, cross platform, single function module with no dependencies for playing sounds.*
 
+Dependencies
+------------
+
+.. code-block:: bash
+
+    $ pip install wheel
+
 Installation
 ------------
 Install via pip:
